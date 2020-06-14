@@ -111,5 +111,4 @@
 	
 </div>
 </body>
-<footer><center>Thanks to Neovic | Brought To You By code-projects.org</center></footer>
 </html>
